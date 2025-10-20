@@ -1,2 +1,7 @@
-# Player-Tracking-in-Sports-Videos
-A computer vision project to detect players in sports videos using YOLOv8 for the DS5216.
+---
+Dataset and Output Videos
+
+The dataset videos and the final processed output videos are too large to be hosted directly on GitHub. They can be downloaded from the following Google Drive link:
+
+https://drive.google.com/drive/folders/1nkfr292eJJvAMCCXLOXN2nKeSczQOpks?usp=sharing
+---
